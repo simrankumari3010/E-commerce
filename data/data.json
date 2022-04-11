@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": "s@gmail.com",
+      "uname": "simran",
+      "upwd": "123456"
+    },
+    {
+      "id": "H@gmail.com",
+      "uname": "Hanish",
+      "upwd": "123456"
+    },
+    {
+      "id": "h1@gmail.com",
+      "uname": "Hanish1",
+      "upwd": "654321"
+    },
+    {
+      "id": "ds@gmail.com",
+      "uname": "Divya",
+      "upwd": "123"
+    },
+    {
+      "id": "UMO_Iok",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "06swQW_",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "qyhF__2",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "5Sbd9RL",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "DmD-OXy",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "-JSIvU5",
+      "uname": "d",
+      "upwd": ""
+    },
+    {
+      "id": "1",
+      "uname": "d",
+      "upwd": ""
+    },
+    {
+      "id": "diya@gmail.com",
+      "uname": "diya",
+      "upwd": "12"
+    },
+    {
+      "id": "4LxlJsK",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "CY8NxI-",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "ddEz-nA",
+      "uname": "h",
+      "upwd": ""
+    },
+    {
+      "id": "uxz4-wZ",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "5QOCVct",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "DvfJN4V",
+      "uname": "",
+      "upwd": ""
+    },
+    {
+      "id": "G5jRLL6",
+      "uname": "",
+      "upwd": ""
+    }
+  ],
+  "cart": [
+    {
+      "uname": "Ramesh",
+      "p_id": "333",
+      "qty": "2",
+      "byed": "1",
+      "id": 1
+    }
+  ]
+}
